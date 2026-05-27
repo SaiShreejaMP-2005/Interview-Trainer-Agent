@@ -1,0 +1,15 @@
+{
+  "name": "Interview Trainer Agent",
+  "description": "An AI-powered agent that helps users prepare for technical and HR interviews through personalized mock interview sessions, feedback, and improvement suggestions.",
+  "version": "1.0.0",
+  "author": "Sai Shreeja M P",
+  "projectType": "AI Interview Preparation System",
+  "features": [
+    "Mock Interviews",
+    "Technical Questions",
+    "HR Questions",
+    "Feedback Generation",
+    "Communication Skill Assessment",
+    "Confidence Building"
+  ]
+}
